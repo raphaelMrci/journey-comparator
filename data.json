@@ -1,0 +1,179 @@
+[
+    {
+        "name": "Brest",
+        "hotel": false,
+        "persons":[
+            {
+                "aller": [
+                    {
+                        "price": 69,
+                        "type": "Avion",
+                        "depart_day": "01/04",
+                        "departure": "21h20",
+                        "arrive_day": "01/04",
+                        "arrival": "22h45",
+                        "missed_lessons": 7,
+                        "url": "https://www.transavia.com/fr-FR/reservez-un-vol/vols/rechercher/?utm_source=affiliate&utm_medium=linkgenerator&utm_campaign=TO_FR_302131_Skyscanner.net"
+                    },
+                    {
+                        "price": 67.98,
+                        "type": "Bus",
+                        "depart_day": "02/04",
+                        "departure": "22h40",
+                        "arrive_day": "03/04",
+                        "arrival": "13h20",
+                        "missed_lessons": 0,
+                        "url": "https://shop.flixbus.fr/search?departureCity=40dfd612-8646-11e6-9066-549f350fcb0c&arrivalCity=40dffb4b-8646-11e6-9066-549f350fcb0c&route=Toulouse-Brest&rideDate=02.04.2021&adult=1&_locale=fr&features%5Bfeature.darken_page%5D=0&features%5Bfeature.enable_distribusion%5D=1&atb_pdid=4e5a1033-c1a2-4aff-97b9-0d0d544596f8&_sp=aa086c10-1c7e-4724-b1f1-89d92f3045a6#"
+                    },
+                    {
+                        "price": 78,
+                        "type": "Avion",
+                        "depart_day": "02/04",
+                        "departure": "22h40",
+                        "arrive_day": "03/04",
+                        "arrival": "13h20",
+                        "missed_lessons": 0
+                    }
+                ],
+                "retour": [
+                    {
+                        "price": 69,
+                        "type": "Avion",
+                        "depart_day": "04/04",
+                        "departure": "18h20",
+                        "arrive_day": "04/04",
+                        "arrival": "19h45",
+                        "missed_lessons": 0
+                    },
+                    {
+                        "price": 55,
+                        "type": "Bus",
+                        "depart_day": "04/04",
+                        "departure": "15h55",
+                        "arrive_day": "05/04",
+                        "arrival": "07h10",
+                        "missed_lessons": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Nantes",
+        "hotel": true,
+        "hotels": [
+            {
+                "name": "Séjours & Affaires Nantes Ducs de bretagne",
+                "price": 139
+            },
+            {
+                "name": "Ibis Nantes",
+                "price": 159
+            }
+        ],
+        "persons":[
+            {
+                "aller": [
+                    {
+                        "price": 46.10,
+                        "type": "Train",
+                        "depart_day": "02/04",
+                        "departure": "09h30",
+                        "arrive_day": "02/04",
+                        "arrival": "14h39",
+                        "missed_lessons": 4.5
+                    },
+                    {
+                        "price": 79.98,
+                        "type": "Avion",
+                        "depart_day": "02/04",
+                        "departure": "21h30",
+                        "arrive_day": "03/04",
+                        "arrival": "01h00",
+                        "missed_lessons": 0
+                    }
+                ],
+                "retour": [
+                    {
+                        "price": 46,
+                        "type": "Train",
+                        "depart_day": "05/04",
+                        "departure": "10h42",
+                        "arrive_day": "05/04",
+                        "arrival": "15h44",
+                        "missed_lessons": 0
+                    },
+                    {
+                        "price": 62.99,
+                        "type": "Avion",
+                        "depart_day": "05/04",
+                        "departure": "07h00",
+                        "arrive_day": "05/04",
+                        "arrival": "18h50",
+                        "missed_lessons": 0
+                    }
+                ]
+            },
+            {
+                "aller": [
+                    {
+                        "price": 49.8,
+                        "type": "Train",
+                        "depart_day": "02/04",
+                        "departure": "08h50",
+                        "arrive_day": "02/04",
+                        "arrival": "17h49",
+                        "missed_lessons": 7
+                    },
+                    {
+                        "price": 39.99,
+                        "type": "Bus",
+                        "depart_day": "02/04",
+                        "departure": "22h40",
+                        "arrive_day": "03/04",
+                        "arrival": "06h00",
+                        "missed_lessons": 0
+                    },
+                    {
+                        "price": 70.8,
+                        "type": "Avion",
+                        "depart_day": "02/04",
+                        "departure": "16h35",
+                        "arrive_day": "02/04",
+                        "arrival": "17h45",
+                        "missed_lessons": 2
+                    }
+                ],
+                "retour": [
+                    {
+                        "price": 80.6,
+                        "type": "Train",
+                        "depart_day": "05/04",
+                        "departure": "07h06",
+                        "arrive_day": "05/04",
+                        "arrival": "15h11",
+                        "missed_lessons": 0
+                    },
+                    {
+                        "price": 29,
+                        "type": "Avion",
+                        "depart_day": "02/04",
+                        "departure": "06h40",
+                        "arrive_day": "02/04",
+                        "arrival": "08h00",
+                        "missed_lessons": 0
+                    },
+                    {
+                        "price": 39.99,
+                        "type": "Bus",
+                        "depart_day": "05/04",
+                        "departure": "23h50",
+                        "arrive_day": "06/04",
+                        "arrival": "07h10",
+                        "missed_lessons": 2
+                    }
+                ]
+            }
+        ]
+    }
+]
